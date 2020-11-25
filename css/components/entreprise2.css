@@ -1,0 +1,57 @@
+
+.entreprise2 {
+    display: flex;
+    background: rgb(255,255,255);
+    padding: 30px;
+    padding-bottom: 100px;
+    padding-right: 300px;
+    padding-left: 300px;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.card2 {
+    width: 200px;
+    height: 300px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card2 h3 {
+	font-weight: bold;
+	font-size: 17px;
+	color: rgb(30,30,30);
+}
+.card2 p {
+	font-family: 'Lora', serif;
+	font-weight: lighter;
+	font-size: 17px;
+	color: rgb(30,30,30);
+}
+
+/* Custom design with id */
+
+#passionnés {
+	font-size: 100px;
+	color:rgb(75,143,140);
+}
+
+#commerçants {
+	font-size: 100px;
+	color:rgb(75,143,140);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

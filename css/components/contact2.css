@@ -1,0 +1,35 @@
+
+.contact2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    background: rgb(30,30,30);
+    padding: 30px;
+    padding-top: 5px;
+    padding-right: 300px;
+    padding-left: 300px;
+    
+}
+
+.card1 {
+    width: 400px;
+    height: 200px;
+}
+
+.card1 h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgb(255,255,255);
+}
+.card1 p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	font-size: 17px;
+	color: rgb(255,255,255);
+}
+.card1 a {
+	text-decoration: none;
+	color: rgb(80,80,80);
+	font-weight: bold;
+}

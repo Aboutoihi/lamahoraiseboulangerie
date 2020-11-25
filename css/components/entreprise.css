@@ -1,0 +1,40 @@
+
+.list-inline {
+	list-style: none;
+	padding-left: 30px;
+	line-height: 24px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 150px;
+	color:rgb(75,143,140);
+}
+
+/* Custom design with id */
+
+#passionnés {
+	font-size: 80px;
+}
+
+#commerçants {
+	font-size: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
